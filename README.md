@@ -1,4 +1,4 @@
-- 👋 Hi, Hello, I'm Aziz Babur, and I'm doing an experiment for a surprise, dear cat
+- 👋 Hi, Hello, I'm Aziz Babur, and I'm doing an experiment for a surprise, dear aziz cat
 - 👀 I’m interested in hacker
 - 🌱 I’m currently learning hack
 - 💞️ I’m looking to collaborate on ethical hacker
